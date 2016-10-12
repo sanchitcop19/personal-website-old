@@ -3,5 +3,14 @@ p {
   font-size: 20px;
   font-family: cursive;
   text-align: left;
-  
+  font-style: normal;
+}
+
+.Info {
+color: rgb(128, 191, 64);
+font-size: 30px;
+font-style: normal;
+font-family: sans-serif;
+text-align: center;
+
 }
