@@ -11,7 +11,7 @@ color: rgb(128, 191, 64);
 font-size: 30px;
 font-style: normal;
 font-family: sans-serif;
-text-align: center;
+text-align: left;;
 
 }
  img.displayed {
@@ -30,4 +30,11 @@ text-align: center;
    font-style: normal;
    font-family: sans-serif;
    text-align: left;
+   color: rgb(116, 39, 37);
+   
  }
+
+#title{
+  font-size: 30px;
+  text-align: center;
+}
